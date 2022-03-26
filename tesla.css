@@ -1,0 +1,363 @@
+body{
+    margin: 0;
+    font-family: var(--tds-font-family--combined,--tds-base-font_family,system);
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header-1{
+  
+    width:100%;
+    height: 700px;
+}
+.tes-icon{
+   top: -20px;
+    width: 180px;
+    height: 100px;
+    float: left;
+    position: fixed;
+    cursor: pointer;
+}
+.s-button{
+    border: 0px;
+    border-radius: 23px;
+    font-size: 16px;
+    margin-left: 291px;
+    top: 9px;
+    width: 95px;
+    height: 41px;
+    float: left;
+    position: fixed;
+    font-weight: 520;
+    cursor: pointer;
+    background: none ; 
+}
+.s-button:hover{
+    background: rgb(209, 201, 201); 
+}
+.m3-button{
+    border: 0px;
+    border-radius: 23px;
+    font-size: 16px;
+    margin-left: 388px;
+    top: 9px;
+    width: 95px;
+    height: 41px;
+    float: left;
+    position: fixed;
+    font-weight: 520;
+    cursor: pointer;
+    background: none ; 
+}
+.m3-button:hover{
+    background: rgb(209, 201, 201); 
+}
+.x-button{
+    border: 0px;
+    border-radius: 23px;
+    font-size: 16px;
+    margin-left: 478px;
+    top: 9px;
+    width: 95px;
+    height: 41px;
+    float: left;
+    position: fixed;
+    font-weight:530;
+    cursor: pointer;
+    background: none ; 
+}
+.x-button:hover{
+    background: rgb(209, 201, 201); 
+}
+.y-button{
+    border: 0px;
+    border-radius: 23px;
+    font-size: 16px;
+    margin-left: 568px;
+    top: 9px;
+    width: 95px;
+    height: 41px;
+    float: left;
+    position: fixed;
+    font-weight:530;
+    cursor: pointer;
+    background: none ; 
+}
+.y-button:hover{
+    background: rgb(209, 201, 201); 
+}
+.solar-button{
+    border: 0px;
+    border-radius: 23px;
+    font-size: 16px;
+    margin-left: 658px;
+    top: 9px;
+    width: 100px;
+    height: 41px;
+    float: left;
+    position: fixed;
+    font-weight:530;
+    cursor: pointer;
+    background: none ; 
+}
+.solar-button:hover{
+    background: rgb(209, 201, 201); 
+}
+.solp-button{
+    border: 0px;
+    border-radius: 23px;
+    font-size: 16px;
+    margin-left: 765px;
+    top: 9px;
+    width: 100px;
+    height: 41px;
+    float: left;
+    position: fixed;
+    font-weight:530;
+    cursor: pointer;
+    background: none ; 
+}
+.solp-button:hover{
+    background: rgb(209, 201, 201); 
+}
+.shop-button{
+    border: 0px;
+    border-radius: 23px;
+    font-size: 16px;
+    margin-left: 945px;
+    top: 9px;
+    width: 88px;
+    height: 41px;
+    float: left;
+    position: fixed;
+    font-weight:530;
+    cursor: pointer;
+    background: none ; 
+}
+.shop-button:hover{
+    background: rgb(209, 201, 201); 
+}
+.acc-button{
+    border: 0px;
+    border-radius: 23px;
+    font-size: 16px;
+    margin-left: 1033px;
+    top: 9px;
+    width: 90px;
+    height: 41px;
+    float: left;
+    position: fixed;
+    font-weight:530;
+    cursor: pointer;
+    background: none ; 
+}
+.acc-button:hover{
+    background: rgb(209, 201, 201); 
+}
+.menu-button{
+    border: 0px;
+    border-radius: 23px;
+    font-size: 16px;
+    margin-left: 1125px;
+    top: 9px;
+    width: 90px;
+    height: 41px;
+    float: left;
+    position: fixed;
+    font-weight:530;
+    cursor: pointer;
+    background: none ; 
+}
+.menu-button:hover{
+    background: rgb(209, 201, 201); 
+}
+.cust-button{
+    left: 420px;
+    position: absolute;
+    top: 549px;
+    width: 210px;
+    background: rgba(23, 26, 32, 0.8);
+    height: 39px;
+    border-radius: 20px;
+    color: #fff;
+    border:none;
+    cursor: pointer;
+}
+.ext-button{
+    left: 670px;
+    position: absolute;
+    top: 549px;
+    width: 210px;
+    background: rgba(244, 244, 244, 0.5);
+    height: 39px;
+    border-radius: 20px;
+    color: rgba(23, 26, 32, 0.8);
+    border:none;
+    font-size: 13px;  
+    cursor: pointer;
+}
+.header-2{
+    width:100%;
+    height: 900px;
+}
+.cust2-button{
+    left: 420px;
+    position: absolute;
+    top: 1449px;
+    width: 210px;
+    background: rgba(23, 26, 32, 0.8);
+    height: 39px;
+    border-radius: 20px;
+    color: #fff;
+    border:none;
+    cursor: pointer;
+    
+}
+.ext2-button{
+    left: 670px;
+    position: absolute;
+    top: 1449px;
+    width: 210px;
+    background: rgba(244, 244, 244, 0.5);
+    height: 39px;
+    border-radius: 20px;
+    color: rgba(23, 26, 32, 0.8);
+    border:none;
+    font-size: 13px;  
+    cursor: pointer;
+}
+.header-3{
+
+    width:100%;
+    height: 1000px;
+}
+.cust3-button{
+    left: 420px;
+    position: absolute;
+    top: 2349px;
+    width: 210px;
+    background: rgba(23, 26, 32, 0.8);
+    height: 39px;
+    border-radius: 20px;
+    color: #fff;
+    border:none;
+    cursor: pointer;
+}
+.ext3-button{
+    left: 670px;
+    position: absolute;
+    top: 2349px;
+    width: 210px;
+    background: rgba(244, 244, 244, 0.5);
+    height: 39px;
+    border-radius: 20px;
+    color: rgba(23, 26, 32, 0.8);
+    border:none;
+    font-size: 13px;  
+    cursor: pointer;
+}
+.header-4{
+    width:100%;
+    height: 750px;
+}
+.cust4-button{
+    left: 420px;
+    position: absolute;
+    top: 3192px;
+    width: 210px;
+    background: rgba(23, 26, 32, 0.8);
+    height: 39px;
+    border-radius: 20px;
+    color: #fff;
+    border:none;
+    cursor: pointer;
+}
+.ext4-button{
+    left: 670px;
+    position: absolute;
+    top: 3192px;
+    width: 210px;
+    background: rgba(244, 244, 244, 0.5);
+    height: 39px;
+    border-radius: 20px;
+    color: rgba(23, 26, 32, 0.8);
+    border:none;
+    font-size: 13px;  
+    cursor: pointer;
+}
+.header-5{
+    width:100%;
+    height: 759px;
+}
+.cust5-button{
+    left: 420px;
+    position: absolute;
+    top: 3930px;
+    width: 210px;
+    background: rgba(23, 26, 32, 0.8);
+    height: 39px;
+    border-radius: 20px;
+    color: #fff;
+    border:none;
+    cursor: pointer;
+}
+.ext5-button{
+    left: 670px;
+    position: absolute;
+    top: 3930px;
+    width: 210px;
+    background: rgba(244, 244, 244, 0.5);
+    height: 39px;
+    border-radius: 20px;
+    color: rgba(23, 26, 32, 0.8);
+    border:none;
+    font-size: 13px;  
+    cursor: pointer;
+}
+.header-6{
+    width:100%;
+    height: 759px;
+}
+.cust6-button{
+    left: 420px;
+    position: absolute;
+    top: 4730px;
+    width: 210px;
+    background: rgba(23, 26, 32, 0.8);
+    height: 39px;
+    border-radius: 20px;
+    color: #fff;
+    border:none;
+    cursor: pointer;
+}
+.ext6-button{
+    left: 670px;
+    position: absolute;
+    top: 4730px;
+    width: 210px;
+    background: rgba(244, 244, 244, 0.5);
+    height: 39px;
+    border-radius: 20px;
+    color: rgba(23, 26, 32, 0.8);
+    border:none;
+    font-size: 13px;  
+    cursor: pointer;
+}
+.header-7{
+    width:100%;
+    height: 550px;
+}
+.cust7-button{
+    left: 515px;
+    position: absolute;
+    top: 5564px;
+    width: 210px;
+    background: rgba(23, 26, 32, 0.8);
+    height: 39px;
+    border-radius: 20px;
+    color: #fff;
+    border:none;
+    cursor: pointer;
+}
